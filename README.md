@@ -117,8 +117,5 @@ Selector should only write up to 3 levels, the more levels there are, the more l
 #### 🐳 Author: [Duy Vu](https://github.com/duyvuxx)
 
 ##### ⏰ Created at 13-03-2023
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 43b1c437bd0e0d944e23c8e285e1c95311558f73
