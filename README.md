@@ -4,7 +4,7 @@
 
 This is the folder structure and organize attributes neatly for newbie to learn about sass syntax.
 
-![sass_architecturee](https://user-images.githubusercontent.com/117933447/224643144-4d4e5295-89c9-4428-8174-7ced6712d11b.png)
+<img src="./assets/images/sass_architecture.jpg" alt="sass_image" width="700"  />
 
 
 ## Setup 🚩
