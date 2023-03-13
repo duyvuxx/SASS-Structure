@@ -21,7 +21,7 @@ This is the folder structure and organize attributes neatly for newbie to learn 
 #### 3. Open with live server
 #### 4. You now can update all file with structure
 
-
+![watch_sass](./assets/images/watch_sass.gif)
 
 
 ## Sorting 📋
