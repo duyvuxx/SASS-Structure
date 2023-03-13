@@ -4,7 +4,7 @@
 
 This is the folder structure and organize attributes neatly for newbie to learn about sass syntax.
 
-<img src="./assets/images/sass_architecture.jpg" alt="sass_image" width="700"  />
+![sass_architecturee](https://user-images.githubusercontent.com/117933447/224643144-4d4e5295-89c9-4428-8174-7ced6712d11b.png)
 
 
 ## Setup 🚩
@@ -119,4 +119,4 @@ Selector should only write up to 3 levels, the more levels there are, the more l
 
 ##### ⏰ Created at 13-03-2023
 
-# SASS-Structure
+
