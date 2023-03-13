@@ -4,9 +4,9 @@
 
 This is the folder structure and organize attributes neatly for newbie to learn about sass syntax.
 
-![sass_architecturee](https://user-images.githubusercontent.com/117933447/224643144-4d4e5295-89c9-4428-8174-7ced6712d11b.png)
+![sass_architecturee](./assets/images/sass_architecture.jpg)
 
-## Setup 🚩
+## Setup 🚩git 
 
  - [IDE: Visual Studio Code Editor](https://code.visualstudio.com/)
  - [SASS](https://sass-lang.com/install)
