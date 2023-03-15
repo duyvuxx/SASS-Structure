@@ -23,6 +23,72 @@ This is the folder structure and organize attributes neatly for newbie to learn 
 
 ![watch_sass](./assets/images/watch_sass.gif)
 
+## Structure 🦾
+
+```javascript
+sass/
+|
+|– abstracts/
+|   |– _variables.scss    // Variables
+|   |– _functions.scss    // Functions
+|   |– _mixins.scss       // Mixins
+|
+|– base/
+|   |– _animation.scss    // Animation
+|   |– _global.scss       // Global define
+|   |– _fonts.scss        // Fonts define
+|   |– _reset.scss        // Reset/normalize
+|   |– _utilities.scss    // utilities
+|
+|– components/
+|   |– _buttons.scss      // Buttons
+|   |– _tabs.scss         // Tabs
+|   |– _slider.scss       // Slider
+|
+|– layout/
+|   |– _navigation.scss   // Navigation
+|   |– _grid.scss         // Grid system
+|   |– _header.scss       // Header
+|   |– _footer.scss       // Footer
+|   |– _sidebar.scss      // Sidebar
+|   |– _forms.scss        // Forms
+|
+|– pages/
+|   |– _home.scss         // Home specific styles
+|   |– _about.scss        // About specific styles
+|   |– _contact.scss      // Contact specific styles
+|
+`– main.scss              // Main SASS file
+@import 'abstracts/variables';
+@import 'abstracts/functions';
+@import 'abstracts/mixins';
+
+// Import library from node_modules
+@import 'node_modules/jquery';
+@import 'node_modules/bootstrap';
+
+@import 'base/reset';
+@import 'base/fonts';
+@import 'base/animation';
+@import 'base/global';
+
+@import 'layout/grid';
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/navigation';
+@import 'layout/sidebar';
+@import 'layout/forms';
+
+@import 'components/buttons';
+@import 'components/tabs';
+@import 'components/slider';
+
+@import 'pages/home';
+@import 'pages/about';
+@import 'pages/contact';
+
+@import 'base/utilities';
+```
 
 ## Sorting 📋
 
